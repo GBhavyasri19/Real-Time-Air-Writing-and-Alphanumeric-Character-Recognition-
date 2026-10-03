@@ -98,7 +98,6 @@ The project follows these general steps:
 Air-Writing-and-Character-Recognition-main/
 │
 ├── screenshots/
-│   ├── Handdetection.png
 │   ├── plainboard.png
 │   ├── alphabets.png
 │   └── numbers.png
@@ -108,10 +107,6 @@ Air-Writing-and-Character-Recognition-main/
 └── ...
 
 ## 📸 Screenshots
-
-### ✋ Hand Detection
-
-![Hand Detection](screenshots/Handdetection.png)
 
 ### ✍️ Air Writing Board
 
